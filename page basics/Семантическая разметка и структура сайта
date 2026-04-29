@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>News company</title>
+  </head>
+  <body>
+  <header>
+    <h1>
+      Company
+    </h1>
+    <nav>
+      <a href= "#">First page</a>|
+      <a href= "#">About us</a>|
+      <a href= "#">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <h1>News of company</h1>
+      <article>
+        <h3> First</h3>
+        <p>We open new office</p>
+      </article>
+      <article>
+        <h3> Second</h3>
+        <p>We go to USA</p>
+      </article>
+      <article>
+        <h3> Third</h3>
+        <p>We closed</p>
+      </article>
+    </section>
+  </main>
+  <aside>
+    <h1> Popular links</h1>
+    <ul>
+      <li><a href="#">We</a></li>
+      <li><a href="#">Our contact</a></a></li>
+      <li><a href="#">Our whatsapp</a></li>
+    </ul>
+  </aside>
+  <footer>
+    <p> Contacts : +37499123456</p>
+  </footer>
+  </body>
+</html>
