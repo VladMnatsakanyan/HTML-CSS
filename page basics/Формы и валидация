@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Регитсация</title>
+  </head>
+  <body>
+      <h1>Регистрация</h1>
+      <form>
+        <label for = "name">Имя</label>
+        <br>
+        <input type = "text" id = "name" required minlength = "2" maxlength = "15" placeholder = "Введите имя">
+        <br><br>
+        <label for = "email">Email</label>
+        <br>
+        <input type = "email" id = "email" required placeholder = "example@gmail.com">
+        <br><br>
+        <label for = "password">Password</label>
+        <br>
+        <input type = "password" required id = "password" minlength = "4" maxlength = "10" placeholder = "Введите пароль">
+        <br><br>
+        <label for = "repeat password">Repeat password</label>
+        <br>
+        <input type = "password" id = "repeat password" required minlength = "4" maxlength = "10" placeholder = "Повтор пароля">
+        <br><br>
+        <label for = "date">Дата рождения</label>
+        <br>
+        <input type = "date" id = "date" required>
+        <br><br>
+        <label for = "country">Страна</label>
+        <br>
+        <select id = "country">
+          <option>Армения</option>
+          <option>Россия</option>
+          <option>Германия</option>
+          <option>Другое</option>
+        </select>
+        <br><br>
+        <input id = "checkbox" type = "checkbox" required>
+        <label for = "checkbox">Согласень с правилами</label>
+        <br><br>
+        <button>
+          Отправить
+        </button>
+      </form>
+  </body>
+</html>
