@@ -1,0 +1,31 @@
+.text {
+	color: red;
+}
+.text2 {
+  font-size: 30px;
+  background-color: green;
+}
+a:hover {
+  background-color: yellow;
+}
+a:focus {
+    outline: 2px solid blue;
+}
+ul,
+ol {
+    padding-left: 40px;
+}
+
+li {
+    margin-bottom: 9px;
+}
+.card {
+    background-color: yellow;
+
+    padding: 20px;
+    margin-bottom: 20px;
+
+    border-radius: 50px;
+
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
