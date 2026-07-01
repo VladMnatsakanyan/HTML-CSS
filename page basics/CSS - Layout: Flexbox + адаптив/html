@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Приложение</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Мое приложение</h1>
+</header>
+
+<div class="container">
+
+    <aside class="sidebar">
+        <h2>Меню</h2>
+
+        <ul>
+            <li>Главная</li>
+            <li>Профиль</li>
+            <li>Сообщения</li>
+            <li>Настройки</li>
+        </ul>
+    </aside>
+
+    <main class="content">
+
+        <div class="card">
+            <h3>Карточка 1</h3>
+            <p>Описание карточки.</p>
+        </div>
+
+        <div class="card">
+            <h3>Карточка 2</h3>
+            <p>Описание карточки.</p>
+        </div>
+
+        <div class="card">
+            <h3>Карточка 3</h3>
+            <p>Описание карточки.</p>
+        </div>
+
+        <div class="card">
+            <h3>Карточка 4</h3>
+            <p>Описание карточки.</p>
+        </div>
+
+        <div class="card">
+            <h3>Карточка 5</h3>
+            <p>Описание карточки.</p>
+        </div>
+
+        <div class="card">
+            <h3>Карточка 6</h3>
+            <p>Описание карточки.</p>
+        </div>
+
+    </main>
+
+</div>
+
+</body>
+</html>
