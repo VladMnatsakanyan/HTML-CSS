@@ -1,1 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Каталог карточек</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
+    <h1>Каталог карточек</h1>
+
+    <div class="catalog">
+
+        <div class="card">
+            <h2>Карточка 1</h2>
+            <p>Это описание первой карточки.</p>
+            <button>Подробнее</button>
+        </div>
+
+        <div class="card">
+            <h2>Карточка 2</h2>
+            <p>Это описание второй карточки.</p>
+            <button>Подробнее</button>
+        </div>
+
+        <div class="card">
+            <h2>Карточка 3</h2>
+            <p>Это описание третьей карточки.</p>
+            <button>Подробнее</button>
+        </div>
+
+        <div class="card">
+            <h2>Карточка 4</h2>
+            <p>Это описание четвертой карточки.</p>
+            <button>Подробнее</button>
+        </div>
+
+        <div class="card">
+            <h2>Карточка 5</h2>
+            <p>Это описание пятой карточки.</p>
+            <button>Подробнее</button>
+        </div>
+
+        <div class="card">
+            <h2>Карточка 6</h2>
+            <p>Это описание шестой карточки.</p>
+            <button>Подробнее</button>
+        </div>
+
+    </div>
+
+</body>
+</html>
